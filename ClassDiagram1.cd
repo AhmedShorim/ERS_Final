@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ERS.Catering">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAABAAAAiBABASAAAIAAAACEACAgAAAAA=</HashCode>
+      <FileName>Catering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Catering_Report">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAABAAABCAAgACAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Catering_Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Customer_Bill">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAABAAAhCAAgACAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Customer_Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Customers">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAgiBABACAAAIAAAACEAAAAAAAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Login">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYECAAAGAAAQAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.MainScreen">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYAAAAAAADAASAAAAADAAgBCAAAQABggI0GIBwAEAAE=</HashCode>
+      <FileName>MainScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Program">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Reservations">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAABAAAACBBAACABgAAAAAAiABAAAAAgA=</HashCode>
+      <FileName>Reservations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Revenue_Report">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAABAAABCAAgACAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Revenue_Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Rooms">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAgiBABACAAAIEAAACEAAAgAAAAA=</HashCode>
+      <FileName>Rooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Rooms_Report">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACAAABAAABCAAgACAAGAAAAAACAAAACAAAA=</HashCode>
+      <FileName>Rooms_Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Rooms_Status">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rooms_Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Search">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAgAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.SplashScreen">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAAAAAACAAAACAAAAIAAAAAAAAQAAAAI=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Users">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAgAAiBABACAAAIECAACEAAAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Properties.Resources">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAEAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERS.Properties.Settings">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

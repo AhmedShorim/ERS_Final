@@ -1,0 +1,3 @@
+DBCC CHECKIDENT ('Customer', RESEED, 1)
+GO
+
